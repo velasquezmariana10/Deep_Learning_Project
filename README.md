@@ -1,2 +1,6 @@
 # Deep_Learning_Project
-Entrega 1, correspondiente al curso de Deep Learning. Integrantes: Camilo Benavides Ramirez Brayan Santiago Ramirez Silva Mariana Velásquez Velásquez
+Entrega 1, correspondiente al curso de Deep Learning. 
+Integrantes: 
+1. Camilo Benavides Ramirez
+2. Brayan Santiago Ramirez Silva
+3. Mariana Velásquez Velásquez
